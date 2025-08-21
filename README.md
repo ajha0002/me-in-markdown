@@ -15,4 +15,4 @@
 <p> All in all, I'm a pretty standard 15 year old girl. I just want to enjoy my youth while I have it, and pass my classes with A's. I love video games and motorcycles, and I will go on long rants about them if you ask. I hope we can have a great year and I'm looking forward to it!
 
 ## Spotify Playlist
-<p> [My Spotify Playlist][(https://open.spotify.com/playlist/6yzmgXve91e5JWMatk1R04?si=fBxFMMvHTo2MxwK53b-PXA)](https://open.spotify.com/playlist/1PVuGPlW2lOfSvvktfvGTW?si=e6421aa98daa41fb&pt=d8866c4c59c41593333bd9b8599922ae)
+<p> [My Spotify Playlist] https://open.spotify.com/playlist/1PVuGPlW2lOfSvvktfvGTW?si=c102bb0f91ca4de0&pt=ef9aaf87c1591fb74b0cb451828c1d24
