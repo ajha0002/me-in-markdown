@@ -1,1 +1,18 @@
-# me-in-markdown
+# Me-In-Markdown
+## Introduction
+<p> Hellooo! I'm Ananya and this is just a little 'about me' introduction. Currently I'm in 10th grade and in my second year at Chatsworth Charter. A few things to know about me are that I'm left-handed, I really enjoy a good video game, and that my years basically consist of getting through school and waiting for winter to come (it's the most wonderful time of the year). 
+
+## Favorite Video Games 
+<p> My favorite video game ever is Sekiro: Shadows Die Twice. I've been playing since I was 10, and I'm extremely good at it. It has beautiful visuals, creative bosses and areas, and the soundtrack is amazing. But the thing I love most is the fighting mechanics. I could talk on and on about it, but I'll cut it short. Another game I really enjoy is Detroit: Become Human. What I wouldn't give to play that game for the first time. It's amazing, and I think it holds an insanely realistic outlook on what will happen in the near future. It's story driven, set in 2038, and revolves around the issue that androids are gaining conciousness (starting in Detroit). You play as three different androids throughout the game, and the choices you make when playing as them determine the course of the story and future events. It's quite interesting and considering the rapid rise of AI, this doesn't seem too far off. I'd recommend this game to everyone, as I think it's a must play. Lastly, I love to play Valorant. It's not the game itself that keeps me coming back, (and lord knows it's not the community) but the fact that it's a way for me to keep in touch with one of my close friends. We have no periods together this year, and it was the same last year too. Valorant allows us to spend time and have fun together without much effort. 
+
+## Yap About Motorcycles!
+<p> Another thing that everyone who knows me knows about me is that I'm completely and absolutely enamored with motorcycles. Specifically sport bikes. Yamahas, Kawasakis, Ducatis, Hondas, you name it. I think sport bikes are beautiful and will audibly squeal if I see one. It really just clicked for me one day. I was normal about them, and then I wasn't. Sometime last September, I became obsessed. For my first bike, I want a Yamaha R3 painted black with blue tron wrap rims, and I want to get one as soon as I can. Preforably senior year, but if that doesn't happen then right after I graduate. I know a lot of people are concerned about the safety of these vehicles, and the reality is they're not the most secure. But that's why gear is so important. If you dress appropriately and ride safe, then even when an accident occurs there's a high chance that you won't be severly injured.
+
+## Music
+<p> I love listening to music. I think it keeps me sane. I have headphones on 24/7, and I like it best when it's all I can hear. My music taste has evolved so much over the years, but now I think it's solid. I listen to EDM and Alt/Indie Rock, as well as Indie Pop and occasionally R&B. I listen to a lot of random songs, but when I focus on certain singers and bands, my go to's are Odetari, The Neighbourhood, Arctic Monkeys, TV Girl, The Weeknd, and Doja Cat. If I could be surrounded by music all the time, I would. I listen while doing work, just hanging around, free time in school, and even while falling asleep. I truly believe music is life. 
+
+## Outro
+<p> All in all, I'm a pretty standard 15 year old girl. I just want to enjoy my youth while I have it, and pass my classes with A's. I love video games and motorcycles, and I will go on long rants about them if you ask. I hope we can have a great year and I'm looking forward to it!
+
+## Spotify Playlist
+<p> [My Spotify Playlist][(https://open.spotify.com/playlist/6yzmgXve91e5JWMatk1R04?si=fBxFMMvHTo2MxwK53b-PXA)](https://open.spotify.com/playlist/1PVuGPlW2lOfSvvktfvGTW?si=e6421aa98daa41fb&pt=d8866c4c59c41593333bd9b8599922ae)
