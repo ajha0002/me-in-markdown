@@ -16,7 +16,7 @@
 <p>I just made this playlist so I'll be adding songs later, it's kind of half-done right now. 
 
 ## Moodboard
-![Alt Text](Untitleddesign.png)
+![Alt Text](https://github.com/ajha0002/me-in-markdown/blob/main/Untitled%20design.png)
 
 ## Outro
 <p> All in all, I'm a pretty standard 15 year old girl. I just want to enjoy my youth while I have it, and pass my classes with A's. I love video games and motorcycles, and I will go on long rants about them if you ask. I hope we can have a great year and I'm looking forward to it!
