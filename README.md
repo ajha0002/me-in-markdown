@@ -11,8 +11,12 @@
 ## Music
 <p> I love listening to music. I think it keeps me sane. I have headphones on 24/7, and I like it best when it's all I can hear. My music taste has evolved so much over the years, but now I think it's solid. I listen to EDM and Alt/Indie Rock, as well as Indie Pop and occasionally R&B. I listen to a lot of random songs, but when I focus on certain singers and bands, my go to's are Odetari, The Neighbourhood, Arctic Monkeys, TV Girl, The Weeknd, and Doja Cat. If I could be surrounded by music all the time, I would. I listen while doing work, just hanging around, free time in school, and even while falling asleep. I truly believe music is life. 
 
+## Spotify Playlist
+<p> [My Spotify Playlist] (https://open.spotify.com/playlist/1PVuGPlW2lOfSvvktfvGTW?si=c102bb0f91ca4de0&pt=ef9aaf87c1591fb74b0cb451828c1d24)
+I just made this playlist so I'll be adding songs later, it's kind of half-made right now. 
+
+## Moodboard
+
+
 ## Outro
 <p> All in all, I'm a pretty standard 15 year old girl. I just want to enjoy my youth while I have it, and pass my classes with A's. I love video games and motorcycles, and I will go on long rants about them if you ask. I hope we can have a great year and I'm looking forward to it!
-
-## Spotify Playlist
-<p> [My Spotify Playlist] https://open.spotify.com/playlist/1PVuGPlW2lOfSvvktfvGTW?si=c102bb0f91ca4de0&pt=ef9aaf87c1591fb74b0cb451828c1d24
