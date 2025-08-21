@@ -13,7 +13,7 @@
 
 ## Spotify Playlist
 <p> [My Spotify Playlist] (https://open.spotify.com/playlist/1PVuGPlW2lOfSvvktfvGTW?si=c102bb0f91ca4de0&pt=ef9aaf87c1591fb74b0cb451828c1d24)
-I just made this playlist so I'll be adding songs later, it's kind of half-made right now. 
+<p>I just made this playlist so I'll be adding songs later, it's kind of half-made right now. 
 
 ## Moodboard
 
